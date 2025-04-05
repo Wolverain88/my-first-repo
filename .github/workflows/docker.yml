@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mydockerhubusername/myapp:latest
+          tags: wolverain/myapp:latest
